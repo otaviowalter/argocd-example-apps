@@ -1,6 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: test-config
-data:
-  message: "Teste 1233333333333333333"
